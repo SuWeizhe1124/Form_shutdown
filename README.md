@@ -1,0 +1,1 @@
+Java_13_Form_shutdown 此時按叉叉即可關閉視窗。
